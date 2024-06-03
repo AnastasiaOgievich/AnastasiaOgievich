@@ -1,17 +1,9 @@
 <div id="header" align="center">
 <img src="https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/gif.gif" alt="gif" width="300"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anastasiia-ogievich/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 ## [My CV](https://www.canva.com/design/DAGEEFHFHkA/hYs_LraXtWVRO7inltLw0w/view?utm_content=DAGEEFHFHkA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
