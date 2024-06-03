@@ -9,7 +9,7 @@
 ## Portfolio
 * Test Documentation
   - [Checklist](https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/checklist) 
-  - Bug Reports
+  - [Bug Reports](https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/bugreport)
   - Testowanie strony AcademyBugs
   
 
