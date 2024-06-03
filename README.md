@@ -18,7 +18,6 @@
 </div>
 :woman_technologist: I'm a begginer Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland
 
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I love to go to the theatre
 
