@@ -6,8 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-## My CV
-[CV](https://www.canva.com/design/DAGEEFHFHkA/hYs_LraXtWVRO7inltLw0w/view?utm_content=DAGEEFHFHkA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## [My CV](https://www.canva.com/design/DAGEEFHFHkA/hYs_LraXtWVRO7inltLw0w/view?utm_content=DAGEEFHFHkA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
   <h1>
   hey there
