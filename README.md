@@ -8,7 +8,7 @@
 
 ## Portfolio
 * Test Documentation
-  - [Checklist](https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/przypadkitestoweOnet.xlsx) 
+  - [Checklist](https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/checklist.xlsx) 
   - Bug Reports
   - Testowanie strony AcademyBugs
   
