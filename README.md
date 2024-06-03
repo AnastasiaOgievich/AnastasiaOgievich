@@ -5,9 +5,14 @@
   
 ## [My CV](https://www.canva.com/design/DAGEEFHFHkA/hYs_LraXtWVRO7inltLw0w/view?utm_content=DAGEEFHFHkA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+## Portfolio
+* Test Documentation
+  - Checklist
+  - Bug Reports
+  - Testowanie strony AcademyBugs
+  
+
 :woman_technologist: I'm a begginer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland
 
 
