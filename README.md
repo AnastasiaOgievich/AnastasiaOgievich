@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/anastasiia-ogievich/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <div id="badges">
-<img src="https://komarev.com/ghpvc/?username=AnastasiaOgievich&style=flat-square&color=blue" alt=""/>
-  </div>
+  
+## My CV
+[CV] 
+
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -25,6 +26,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anastasiia-ogievich/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/an_resz)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/aan.resz_)
+
+  <div id="badges">
+<img src="https://komarev.com/ghpvc/?username=AnastasiaOgievich&style=flat-square&color=blue" alt=""/>
+  </div>
 
 ---
 
