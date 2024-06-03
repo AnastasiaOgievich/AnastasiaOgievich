@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThrbTJidzVjbjF4Ymx4bHNramo3dWtuZ29qdmZsY2F4cDJ6dzdjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="200"/>
+<img src="https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/header.png" alt="Header" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anastasiia-ogievich/">
