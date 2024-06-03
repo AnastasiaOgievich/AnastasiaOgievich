@@ -1,24 +1,20 @@
 <div id="header" align="center">
-<img src="https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/gif.gif" alt="gif" width="300"/>
+<img src="https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/gif.gif" alt="gif" width="250"/>
 </div>
   </a>
   
 ## [My CV](https://www.canva.com/design/DAGEEFHFHkA/hYs_LraXtWVRO7inltLw0w/view?utm_content=DAGEEFHFHkA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-
 ## Portfolio
 * Test Documentation
-  - [Test Case](https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/testcase1.png) 
-  - [Bug Reports](https://github.com/AnastasiaOgievich/AnastasiaOgievich/blob/main/bugreport)
-  - Testowanie strony AcademyBugs
+  - [Test Case](https://docs.google.com/spreadsheets/d/1qGYq1GDcfLwn8isDZWICCSyThE_jqJ6gnx8xwagTu24/edit?usp=sharing) 
+  - [Bug Reports](https://drive.google.com/file/d/1vLUYWBRoWHedDmGEmpkb79rrRM7vzrBE/view?usp=sharing)
+  - [Testowanie strony AcademyBugs](https://drive.google.com/file/d/1t-0XtJt2a_JkTCYBRMeHHHRgk3LyZDTR/view?usp=sharing)
   
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a begginer Manual Tester from Poland
 
-:woman_technologist: I'm a begginer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hoZjM0OHJuOHFpZ2Zocmw1MGdjeDkzcm1neWdlanE1bjlxcTliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZdCKWA4rGwXPh9NjIR/giphy.gif" width="30"> Follow me:
 
-
- :zap: In my free time, I love to go to the theatre
-
- :mailbox: Follow me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-ogievich/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/an_resz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/an.resz_)
