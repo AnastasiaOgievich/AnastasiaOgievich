@@ -19,9 +19,9 @@
 :woman_technologist: I'm a begginer Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland
 
 
-- :zap: In my free time, I love to go to the theatre
+ :zap: In my free time, I love to go to the theatre
 
-- :mailbox: Follow me:
+ :mailbox: Follow me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anastasiia-ogievich/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/an_resz)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/aan.resz_)
