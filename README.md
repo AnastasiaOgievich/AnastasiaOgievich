@@ -25,6 +25,8 @@
 
 [Postman for API testing](https://stepik.org/cert/1770155?lang=en)
 
+[The universe of testing](https://stepik.org/cert/1767719?lang=en)
+
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a begginer Manual Tester from Poland
 
