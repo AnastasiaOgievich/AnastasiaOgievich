@@ -14,7 +14,7 @@
   - [Testowanie aplikacji Mr Buggy](https://drive.google.com/file/d/13Sc82_XermE9-HF8nBdVUTVcrAZzruhA/view?usp=sharing)
   - [Testowanie strony AcademyBugs](https://drive.google.com/file/d/1t-0XtJt2a_JkTCYBRMeHHHRgk3LyZDTR/view?usp=sharing)
 * API testing
-
+  - [Postman](https://drive.google.com/file/d/1LwNZ_5cQeOHlkr5qnV7qi3-TuBTpDsaR/view?usp=sharing)
 * Database testing
   - [Bazy danych SQL ORACLE](https://drive.google.com/file/d/1GyONLQWeA-ow5VX8tbCIWZTWApHdKJJt/view?usp=sharing)
       
