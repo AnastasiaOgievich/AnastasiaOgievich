@@ -17,7 +17,15 @@
   - [Postman](https://drive.google.com/file/d/1LwNZ_5cQeOHlkr5qnV7qi3-TuBTpDsaR/view?usp=sharing)
 * Database testing
   - [Bazy danych SQL ORACLE](https://drive.google.com/file/d/1GyONLQWeA-ow5VX8tbCIWZTWApHdKJJt/view?usp=sharing)
-      
+ 
+## Certificates 
+[Kurs Tester Oprogramowania](https://drive.google.com/file/d/1U5GHvCAM8LWQYVT2ZsafyM_l67TbPspx/view?usp=sharing)
+
+[GoIt HTML](https://drive.google.com/file/d/1ClLMECfwuq_B491OCxUfYPHcennrNT6t/view?usp=sharing)
+
+[Postman for API testing](https://stepik.org/cert/1770155?lang=en)
+
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a begginer Manual Tester from Poland
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hoZjM0OHJuOHFpZ2Zocmw1MGdjeDkzcm1neWdlanE1bjlxcTliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZdCKWA4rGwXPh9NjIR/giphy.gif" width="30"> Follow me:
@@ -40,6 +48,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
