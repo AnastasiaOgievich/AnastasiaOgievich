@@ -1,0 +1,35 @@
+name: Update Duolingo Streak
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Запуск каждый день в 00:00 UTC
+  workflow_dispatch:  # Позволяет запускать вручную
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install pillow
+
+    - name: Run script to update streak
+      run: |
+        python update_streak.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "ogievich32@gmail.com"
+        git config --local user.name "GitHub Actions"
+        git add duolingo_streak.png
+        git commit -m "Update Duolingo streak"
+        git push
