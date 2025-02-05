@@ -28,7 +28,7 @@
 [The universe of testing](https://stepik.org/cert/1767719?lang=en)
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a begginer Manual Tester from Poland
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Manual Tester from Poland
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hoZjM0OHJuOHFpZ2Zocmw1MGdjeDkzcm1neWdlanE1bjlxcTliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZdCKWA4rGwXPh9NjIR/giphy.gif" width="30"> Follow me:
 
@@ -51,6 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+
 </div>
 
 
